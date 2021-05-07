@@ -1,0 +1,7 @@
+09:36:42,127 WARNING  [django.security.csrf] 224  : Forbidden (CSRF token missing or incorrect.): /users/deletion_hr/7/
+06:34:36,132 WARNING  [django.security.csrf] 224  : Forbidden (CSRF token missing or incorrect.): /users/requests/asset/fdcbf4a4-d0fe-42dd-ad30-4828dfcd8270/
+12:46:15,609 WARNING  [django.security.csrf] 224  : Forbidden (CSRF token missing or incorrect.): /users/login/
+12:46:20,708 WARNING  [django.security.csrf] 224  : Forbidden (CSRF token missing or incorrect.): /users/login/
+12:46:25,149 WARNING  [django.security.csrf] 224  : Forbidden (CSRF token missing or incorrect.): /users/login/
+13:37:33,362 WARNING  [django.security.csrf] 224  : Forbidden (CSRF token missing or incorrect.): /admin/users/user/
+13:37:37,386 WARNING  [django.security.csrf] 224  : Forbidden (CSRF token missing or incorrect.): /admin/users/user/
